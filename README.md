@@ -40,8 +40,9 @@
 
 ## 🏆 GitHub Trophies  
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shivamkushwaha91239-ux&theme=onedark&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=shivamkushwaha91239-ux&theme=darkhub&no-frame=true&row=1&column=6" />
 </p>
+
 
 ---
 
@@ -54,12 +55,14 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivamkushwaha91239-ux&layout=compact&theme=tokyonight" />
 </p>
 
+
 ---
 
 ## 🔥 GitHub Streak  
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shivamkushwaha91239-ux&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=shivamkushwaha91239-ux&theme=tokyonight" />
 </p>
+
 
 ---
 
