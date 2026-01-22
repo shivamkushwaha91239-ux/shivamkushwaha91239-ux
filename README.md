@@ -78,11 +78,12 @@
   <a href="https://github.com/shivamkushwaha91239-ux" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
   </a>
+  <a href="https://instagram.com/i_shiva_091" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&logo=instagram&logoColor=white&style=for-the-badge" />
+</a>
 </p>
 
 ---
 
 ### 💡 Quote  
-> *"Consistency beats talent when talent doesn’t work consistently."*  
-
-⭐ **If you like my profile, give a star to my repositories!**
+> ** HEY I M LEARNER .I LOVE TO CODE AND ALSO CONTENT CREATION 😊 !**
