@@ -129,11 +129,6 @@
 </p>
 
 ---
-
-# 🐍 Contribution Snake
-
-> **⚠️ This image will appear only after you create the Snake GitHub Action.**
-
 ## 🐍 Contribution Snake
 
 <p align="center">
