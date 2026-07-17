@@ -134,13 +134,19 @@
 
 > **⚠️ This image will appear only after you create the Snake GitHub Action.**
 
+## 🐍 Contribution Snake
+
 <p align="center">
-
-<img src="https://raw.githubusercontent.com/shivamkushwaha91239-ux/shivamkushwaha91239-ux/output/github-contribution-grid-snake.svg"/>
-
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/shivamkushwaha91239-ux/shivamkushwaha91239-ux/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/shivamkushwaha91239-ux/shivamkushwaha91239-ux/output/github-contribution-grid-snake.svg">
+    <img
+      alt="GitHub Contribution Snake"
+      src="https://raw.githubusercontent.com/shivamkushwaha91239-ux/shivamkushwaha91239-ux/output/github-contribution-grid-snake.svg">
+  </picture>
 </p>
-
----
 
 # 🧠 Machine Learning
 
